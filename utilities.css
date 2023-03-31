@@ -1,0 +1,30 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Smokum&display=swap"); */
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  text-align: center;
+  justify-content: center;
+}
+p {
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  justify-content: space-evenly;
+  line-height: 30px;
+  align-items: center;
+}
+body{
+
+  background-color: rgb(250, 184, 178);
+}
+/* button {
+  font-size: 24px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
+  align-items: center;
+  margin-top: 23px;
+  padding: 10px;
+  border-radius: 20px;
+  display: inline-block;
+} */
